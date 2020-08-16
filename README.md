@@ -1,5 +1,5 @@
 # Z3-Public
-Z3 schematics and projects
+Z3 Leo schematics and projects
 
 ![Z3](/Images/image1.jpg)  
 
