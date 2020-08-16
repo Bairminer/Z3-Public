@@ -1,11 +1,11 @@
 # Z3-Public
 Z3 schematics and projects
 
-![Z3](/images/image1.jpg)  
+![Z3](/Images/image1.jpg)  
 
 Schematic:  
 
-![Schematic](/images/schematic.png)  
+![Schematic](/Images/schematic.png)  
 
 More info here: https://anomalywc.com/z3-leo/  
 
