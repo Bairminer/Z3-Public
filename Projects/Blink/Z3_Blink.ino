@@ -1,5 +1,5 @@
 /*
-  Blink
+  Blink - Pin configuration edited for Z3 Leo
 
   Turns an LED on for one second, then off for one second, repeatedly.
 
